@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\03_Fechas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F52AD-4A59-4854-A973-FCDFD922B845}|03_Fechas\\03_Fechas.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\03_fechas\\03_fechas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F52AD-4A59-4854-A973-FCDFD922B845}|03_Fechas\\03_Fechas.csproj|solutionrelative:03_fechas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\03_Fechas\\03_Fechas\\Program.cs",
+              "RelativeDocumentMoniker": "03_Fechas\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\03_Fechas\\03_Fechas\\Program.cs",
+              "RelativeToolTip": "03_Fechas\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:42:22.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
