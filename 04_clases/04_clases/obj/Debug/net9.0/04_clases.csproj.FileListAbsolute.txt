@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\bin\Debug\net9.0\04_clases.exe
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\bin\Debug\net9.0\04_clases.deps.json
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\bin\Debug\net9.0\04_clases.runtimeconfig.json
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\bin\Debug\net9.0\04_clases.dll
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\bin\Debug\net9.0\04_clases.pdb
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.AssemblyInfo.cs
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.sourcelink.json
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.dll
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\refint\04_clases.dll
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.pdb
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\04_clases.genruntimeconfig.cache
+P:\Programas UNAH\2026-1\Programacion Orientada a Objetos\04_clases\04_clases\obj\Debug\net9.0\ref\04_clases.dll
