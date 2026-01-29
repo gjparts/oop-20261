@@ -15,7 +15,9 @@ namespace _04_clases
     public class Arbol
     {
         /*Propiedades
-         Son las caracteristicas de la clase, la describen.*/
+         Son las caracteristicas de la clase, la describen.
+        {get; set;} a esto se le conoce como accesores de salida (get) y de
+        entrada (set)*/
         public string Nombre { get; set; } //auto-implemented property
         public string Especie { get; set; }
         public float Altura { get; set; }

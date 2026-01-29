@@ -36,6 +36,42 @@
             Console.WriteLine($"Altura: {a1.Altura}");
             //ejecucion del unico metodo que le pusimos al Arbol:
             a1.Purificar();
+
+            Mascota m1 = new Mascota();
+            m1.Nombre = "Firulais";
+            m1.Especie = "Perro";
+            m1.Genero = 'M';
+            m1.Pedigree = true;
+            Console.WriteLine("******************");
+            Console.WriteLine("Propiedades de m1:");
+            Console.WriteLine($"Nombre: {m1.Nombre}");
+            Console.WriteLine($"Especie: {m1.Especie}");
+            Console.WriteLine($"Genero: {m1.Genero}");
+            Console.WriteLine($"Pedigree: {m1.Pedigree}");
+            Console.WriteLine($"Hash de memoria: {m1.GetHashCode()}");
+
+            Persona per1 = new Persona();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("*********************");
+            Console.WriteLine("Propiedades de per1: ");
+            Console.WriteLine($"Nombre: {per1.Nombre}");
+            Console.WriteLine($"Edad: {per1.Edad}");
+            Console.WriteLine($"Genero: {per1.Genero}");
+            Console.WriteLine($"DNI: {per1.DNI}");
+
+            //modificar una de las propiedades de per1:
+            per1.Nombre = "Gerardo Portillo";
+            Console.WriteLine($"Nombre actualizado: {per1.Nombre}");
+
+            Console.ResetColor();
+
+            Persona per2 = new Persona("Josue Portillo", 13, 'M', "1234123412345");
+            Console.WriteLine("*********************");
+            Console.WriteLine("Propiedades de per2: ");
+            Console.WriteLine($"Nombre: {per2.Nombre}");
+            Console.WriteLine($"Edad: {per2.Edad}");
+            Console.WriteLine($"Genero: {per2.Genero}");
+            Console.WriteLine($"DNI: {per2.DNI}");
         }
     }
 }
