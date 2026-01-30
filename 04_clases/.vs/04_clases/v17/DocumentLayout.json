@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Persona.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Persona.cs",
               "RelativeDocumentMoniker": "04_clases\\Persona.cs",
               "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Persona.cs",
               "RelativeToolTip": "04_clases\\Persona.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowDQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T15:33:32.831Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "04_clases\\Mascota.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T15:18:24.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T15:18:24.992Z"
             },
             {
               "$type": "Document",
@@ -64,18 +63,17 @@
               "RelativeToolTip": "04_clases\\Arbol.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:22:11.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T15:22:11.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Program.cs",
               "RelativeDocumentMoniker": "04_clases\\Program.cs",
               "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Program.cs",
               "RelativeToolTip": "04_clases\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T15:16:03.814Z",
               "EditorCaption": ""

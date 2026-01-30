@@ -52,5 +52,46 @@ namespace _04_clases
             this.Genero = genero;
             this.DNI = dni;
         }
+        public Persona(string nombre, int edad)
+        {
+            //constructor con dos parametros
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = 'X';
+            this.DNI = "No determinado";
+        }
+        //Metodos: son funciones declaradas dentro de una clase
+        public void Imprimir()
+        {
+            Console.WriteLine("*********** Perfil de la Persona ***********");
+            Console.WriteLine($"Nombre: {this.Nombre}");
+            Console.WriteLine($"DNI: {this.DNI}");
+            Console.WriteLine($"Edad: {this.Edad}");
+            Console.WriteLine($"Genero: {this.GeneroDescripcion()}");
+        }
+        public bool EsMayorDeEdad()
+        {
+            if (this.Edad >= 18)
+                return true;
+            else
+                return false;
+        }
+        
+        //public bool EsMayorDeEdad() => this.Edad >= 18;
+
+        /*
+         public bool EsMayorDeEdad()
+        {
+            return this.Edad >= 18;
+        }
+         */
+        public string GeneroDescripcion()
+        {
+            if (this.Genero == 'M') return "Masculino";
+            if (this.Genero == 'F') return "Femenino";
+            if (this.Genero == 'X') return "Otros";
+            //si llego aqui es porque no se cumplio ninguna condicion de arriba
+            return "No configurado";
+        }
     }
 }

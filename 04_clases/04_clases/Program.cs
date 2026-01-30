@@ -52,12 +52,7 @@
 
             Persona per1 = new Persona();
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("*********************");
-            Console.WriteLine("Propiedades de per1: ");
-            Console.WriteLine($"Nombre: {per1.Nombre}");
-            Console.WriteLine($"Edad: {per1.Edad}");
-            Console.WriteLine($"Genero: {per1.Genero}");
-            Console.WriteLine($"DNI: {per1.DNI}");
+            per1.Imprimir();
 
             //modificar una de las propiedades de per1:
             per1.Nombre = "Gerardo Portillo";
@@ -66,12 +61,19 @@
             Console.ResetColor();
 
             Persona per2 = new Persona("Josue Portillo", 13, 'M', "1234123412345");
-            Console.WriteLine("*********************");
-            Console.WriteLine("Propiedades de per2: ");
-            Console.WriteLine($"Nombre: {per2.Nombre}");
-            Console.WriteLine($"Edad: {per2.Edad}");
-            Console.WriteLine($"Genero: {per2.Genero}");
-            Console.WriteLine($"DNI: {per2.DNI}");
+            per2.Imprimir();
+
+            Persona per3 = new Persona("Filomeno Colinas", 77);
+            per3.Genero = 'M';
+            per3.Imprimir();
+
+            Console.WriteLine($"{per1.Nombre} es mayor de edad? {per1.EsMayorDeEdad()}");
+            Console.WriteLine($"{per2.Nombre} es mayor de edad? {per2.EsMayorDeEdad()}");
+            Console.WriteLine($"{per3.Nombre} es mayor de edad? {per3.EsMayorDeEdad()}");
+            if( per2.EsMayorDeEdad() == true )
+                Console.WriteLine($"{per2.Nombre} si puede salir en su moto italika");
+            else
+                Console.WriteLine($"{per2.Nombre} ni loco puede salir en su italika");
         }
     }
 }
