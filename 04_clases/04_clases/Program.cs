@@ -74,6 +74,28 @@
                 Console.WriteLine($"{per2.Nombre} si puede salir en su moto italika");
             else
                 Console.WriteLine($"{per2.Nombre} ni loco puede salir en su italika");
+
+
+            Carro car1 = new Carro();
+            car1.Imprimir();
+
+            Carro car2 = new Carro("Toyota", "Rav4", "Blanco", 2018);
+            car2.Imprimir();
+
+            //bloque de caza de errores
+            try
+            {
+                Empleado em2 = new Empleado();
+
+                Empleado em1 = new Empleado("Gerardo",43,'M',10000,'P');
+                em1.Edad = 15;
+                em1.Imprimir();
+            }catch(Exception ex)
+            {
+                //en caso de error imprimir la excepcion lanzada
+                Console.WriteLine(ex.Message);
+            }
+
         }
     }
 }
