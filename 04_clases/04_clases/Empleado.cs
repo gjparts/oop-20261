@@ -33,13 +33,45 @@ namespace _04_clases
                     //en caso de no cumplir con la regla se lanza una excepcion
             }
         }
-        public char Genero { get; set; }
-        public float Salario { get; set; }
-        public char Contrato { get; set; }
+        public char Genero
+        {
+            get { return this._genero; }
+            set
+            {
+                if (value == 'M' || value == 'F' || value == 'X')
+                    this._genero = value; //se acepta
+                else
+                    throw new ArgumentException("Genero solo acepta caracteres M, F, X");
+            }
+        }
+        public float Salario
+        {
+            get { return this._salario; }
+            set
+            {
+                if (value >= 0)
+                    this._salario = value; //se acepta
+                else
+                    throw new ArgumentException("Salario debe de ser un numero >= 0");
+            }
+        }
+        public char Contrato
+        {
+            get { return this._contrato; }
+            set
+            {
+                if (value == 'T' || value == 'P')
+                    this._contrato = value; //se acepta
+                else
+                    throw new ArgumentException("Contrato solo permite los caracteres T, P");
+            }
+        }
 
         //Constructores
         public Empleado()
         {
+            //tambien en los constructores debe asegurarse de que se cumpla las reglas de
+            //los validadores publicos
             this.Nombre = "No definido";
             this.Edad = 18;
             this.Genero = 'X';
