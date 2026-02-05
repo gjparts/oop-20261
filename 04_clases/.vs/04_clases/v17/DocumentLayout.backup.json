@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\enum\\tipoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\enum\\tipoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\enum\\tipocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\enum\\tipocontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|solutionrelative:04_clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744536E8-94E6-42E4-A723-E2C3B8D13AC8}|04_clases\\04_clases.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\04_clases\\04_clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +59,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Empleado.cs",
-              "RelativeDocumentMoniker": "04_clases\\Empleado.cs",
-              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Empleado.cs",
-              "RelativeToolTip": "04_clases\\Empleado.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Title": "TipoInstructor.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\TipoInstructor.cs",
+              "RelativeDocumentMoniker": "04_clases\\Enum\\TipoInstructor.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\TipoInstructor.cs",
+              "RelativeToolTip": "04_clases\\Enum\\TipoInstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:19:43.101Z",
+              "WhenOpened": "2026-02-05T15:53:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoContrato.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\TipoContrato.cs",
+              "RelativeDocumentMoniker": "04_clases\\Enum\\TipoContrato.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\TipoContrato.cs",
+              "RelativeToolTip": "04_clases\\Enum\\TipoContrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:52:08.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\Genero.cs",
+              "RelativeDocumentMoniker": "04_clases\\Enum\\Genero.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Enum\\Genero.cs",
+              "RelativeToolTip": "04_clases\\Enum\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:46:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Instructor.cs",
+              "RelativeDocumentMoniker": "04_clases\\Instructor.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Instructor.cs",
+              "RelativeToolTip": "04_clases\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:44:10.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "04_clases\\Estudiante.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Estudiante.cs",
+              "RelativeToolTip": "04_clases\\Estudiante.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:09:48.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "04_clases\\Empleado.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Empleado.cs",
+              "RelativeToolTip": "04_clases\\Empleado.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:19:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Carro.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Carro.cs",
               "RelativeDocumentMoniker": "04_clases\\Carro.cs",
@@ -59,12 +143,11 @@
               "RelativeToolTip": "04_clases\\Carro.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:16:08.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T15:16:08.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Persona.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Persona.cs",
               "RelativeDocumentMoniker": "04_clases\\Persona.cs",
@@ -76,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Mascota.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Mascota.cs",
               "RelativeDocumentMoniker": "04_clases\\Mascota.cs",
@@ -88,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Arbol.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Arbol.cs",
               "RelativeDocumentMoniker": "04_clases\\Arbol.cs",
@@ -100,13 +183,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Program.cs",
               "RelativeDocumentMoniker": "04_clases\\Program.cs",
               "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\04_clases\\04_clases\\Program.cs",
               "RelativeToolTip": "04_clases\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T15:16:03.814Z",
               "EditorCaption": ""

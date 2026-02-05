@@ -96,6 +96,16 @@
                 Console.WriteLine(ex.Message);
             }
 
+            try
+            {
+                Estudiante es1 = new Estudiante("Gerardo", "20012002049", "1234123412345", 43,
+                    'M',84.5f,"Ing. Industrial");
+                es1.Imprimir();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
