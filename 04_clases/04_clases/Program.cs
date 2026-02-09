@@ -1,4 +1,6 @@
-﻿namespace _04_clases
+﻿using _04_clases.Enum;
+
+namespace _04_clases
 {
     internal class Program
     {
@@ -101,6 +103,21 @@
                 Estudiante es1 = new Estudiante("Gerardo", "20012002049", "1234123412345", 43,
                     'M',84.5f,"Ing. Industrial");
                 es1.Imprimir();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            try
+            {
+                Instructor in1 = new Instructor("Gerardo", 43, Enum.Genero.Masculino,
+                    TipoContrato.Temporal, TipoInstructor.General);
+                in1.Imprimir();
+
+                Instructor in2 = new Instructor("Irene", 42, Genero.Femenino);
+                in2.Tipo = TipoInstructor.LaboratorioMatematicas;
+                in2.Imprimir();
             }
             catch (Exception ex)
             {

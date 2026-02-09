@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _04_clases.Enum;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,56 @@ namespace _04_clases
 {
     public class Instructor
     {
+        //Campos privados
+        private int _edad;
 
+        //Propiedades
+        public string Nombre { get; set; }
+        public int Edad
+        {
+            get => this._edad;
+            set
+            {
+                if (value >= 18)
+                    this._edad = value;
+                else
+                    throw new ArgumentException("Edad debe de ser >= 18");
+            }
+        }
+        public Genero Genero { get; set; }
+        public TipoContrato Contrato { get; set; }
+        public TipoInstructor Tipo {  get; set; }
+
+        //Constructores
+        public Instructor(string nombre,  int edad, Genero genero,
+            TipoContrato contrato, TipoInstructor tipo)
+        {
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = genero;
+            this.Contrato = contrato;
+            this.Tipo = tipo;
+        }
+        public Instructor(string nombre, int edad, Genero genero)
+        {
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = genero;
+            this.Contrato = TipoContrato.Permanente;
+            this.Tipo = TipoInstructor.General;
+        }
+
+        //Metodos
+        public void Imprimir()
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine($"Nombre: {this.Nombre}");
+            Console.WriteLine($"Edad: {this.Edad}");
+            Console.WriteLine($"Genero: {this.Genero}");
+            Console.WriteLine($"Tipo de Contrato: {this.Contrato}");
+            Console.WriteLine($"Tipo de Instructor: {this.Tipo}");
+            Console.ResetColor();
+        }
     }
 }
