@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05_CuentaAhorro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+588cc6210872c7646d498e9e73e32f94d4b9cfb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30ba6ea386d4debfa358d399ecd382d090d865d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("05_CuentaAhorro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05_CuentaAhorro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

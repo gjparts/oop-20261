@@ -34,6 +34,21 @@ namespace _05_CuentaAhorro
         }
 
         //Metodos
-        //Coming soon...
+        public void Depositar(float monto)
+        {
+            if (monto < 0)
+                throw new ArgumentException("Monto a depositar no puede ser negativo.");
+            else
+                this.Saldo += monto; //se acepta
+        }
+        public void Retirar(float monto)
+        {
+            if (monto < 0) throw new ArgumentException("Monto a retirar no puede ser negativo");
+            if (monto > Saldo) throw new ArgumentException("Fondos insuficientes");
+            this.Saldo -= monto; //si llego hasta aqui entonces se acepta el retiro
+            //throw al igual que return terminan la ejecucion del Metodo por lo tanto
+            //no se procesan las lineas de codigo que le siguen al throw
+            //Early Returns (metodologia que reduce el uso de else en metodos)
+        }
     }
 }
