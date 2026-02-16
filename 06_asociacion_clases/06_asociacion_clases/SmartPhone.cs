@@ -34,6 +34,8 @@ namespace _06_asociacion_clases
             {
                 if (value.Trim().Length == 0)
                     throw new ArgumentException("Modelo en SmartPhone no puede ir en blanco");
+                else
+                    this._modelo = value; //se acepta
             }
         }
         public Capacidad Almacenamiento { get; set; }
@@ -85,6 +87,24 @@ namespace _06_asociacion_clases
             Console.WriteLine("Datos de la bateria: ");
             Console.WriteLine($"\tMarca: {this.Bateria.Marca.Nombre}"); //no olviden la cascada
             Console.WriteLine($"\tMiliamperios: {this.Bateria.MiliAmperios}");
+
+            /*Como la relacion con Chip es por agregacion existe la posibilidad
+             de que Chip1 o Chip2 puedan no tener asignado un objeto por lo tanto
+            su valor puede llegar a ser null.*/
+            if( this.Chip1 != null)
+            {
+                //solo imprimimos Chip1 si fuera distinto de null
+                Console.WriteLine("Chip 1:");
+                Console.WriteLine($"\tOperador: {this.Chip1.Proveedor.Nombre}");
+                Console.WriteLine($"\tNumero telefonico: {this.Chip1.NumeroTelefonico}");
+            }
+            if (this.Chip2 != null)
+            {
+                //solo imprimimos Chip2 si fuera distinto de null
+                Console.WriteLine("Chip 2:");
+                Console.WriteLine($"\tOperador: {this.Chip2.Proveedor.Nombre}");
+                Console.WriteLine($"\tNumero telefonico: {this.Chip2.NumeroTelefonico}");
+            }
         }
     }
 }
