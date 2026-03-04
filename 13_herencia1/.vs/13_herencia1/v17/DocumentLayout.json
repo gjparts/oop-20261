@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\catedratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\catedratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\practicante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\practicante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|solutionrelative:13_herencia1\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD02D3B3-2E9F-4670-BD72-1DDAC9477E62}|13_herencia1\\13_herencia1.csproj|c:\\programas unah\\2026-1\\programacion orientada a objetos\\13_herencia1\\13_herencia1\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Catedratico.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Catedratico.cs",
+              "RelativeDocumentMoniker": "13_herencia1\\Catedratico.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Catedratico.cs",
+              "RelativeToolTip": "13_herencia1\\Catedratico.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practicante.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Practicante.cs",
+              "RelativeDocumentMoniker": "13_herencia1\\Practicante.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Practicante.cs",
+              "RelativeToolTip": "13_herencia1\\Practicante.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:17:36.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Empleado.cs",
               "RelativeDocumentMoniker": "13_herencia1\\Empleado.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Empleado.cs",
               "RelativeToolTip": "13_herencia1\\Empleado.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T15:42:33.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Estudiante.cs",
               "RelativeDocumentMoniker": "13_herencia1\\Estudiante.cs",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "13_herencia1\\Estudiante.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T15:23:00.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T15:23:00.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Enum\\Genero.cs",
               "RelativeDocumentMoniker": "13_herencia1\\Enum\\Genero.cs",
@@ -72,12 +105,11 @@
               "RelativeToolTip": "13_herencia1\\Enum\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T15:18:37.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T15:18:37.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Persona.cs",
               "RelativeDocumentMoniker": "13_herencia1\\Persona.cs",
@@ -96,7 +128,7 @@
               "RelativeDocumentMoniker": "13_herencia1\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\13_herencia1\\13_herencia1\\Program.cs",
               "RelativeToolTip": "13_herencia1\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T15:11:12.357Z",
               "EditorCaption": ""
