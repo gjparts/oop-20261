@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\14_herencia2\\14_herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|solutionrelative:14_herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\14_herencia2\\14_herencia2\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|solutionrelative:14_herencia2\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|p:\\programas unah\\2026-1\\programacion orientada a objetos\\14_herencia2\\14_herencia2\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1E0A5B-7BD3-4EF7-B7F3-73103DB96B7C}|14_herencia2\\14_herencia2.csproj|solutionrelative:14_herencia2\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Program.cs",
+              "RelativeDocumentMoniker": "14_herencia2\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Program.cs",
+              "RelativeToolTip": "14_herencia2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:41:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Audio.cs",
+              "RelativeDocumentMoniker": "14_herencia2\\Audio.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Audio.cs",
+              "RelativeToolTip": "14_herencia2\\Audio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:38:15.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Video.cs",
+              "RelativeDocumentMoniker": "14_herencia2\\Video.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-1\\Programacion Orientada a Objetos\\14_herencia2\\14_herencia2\\Video.cs",
+              "RelativeToolTip": "14_herencia2\\Video.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:36:59.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
