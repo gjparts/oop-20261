@@ -43,5 +43,11 @@ namespace _15_polimorfismo1
             Console.WriteLine($"Apodo: {this.Apodo}");
             Console.WriteLine($"Tiene pelaje: { (this.TienePelaje ? "Si" : "No" ) }");
         }
+        //es posible hacer override al metodo ToString() que viene
+        //heredado desde Object
+        public override string ToString()
+        {
+            return $"Solo soy un gato y me llamo {this.Apodo}";
+        }
     }
 }

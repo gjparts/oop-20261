@@ -13,6 +13,22 @@
             g1.Ronronear();
             g1.Imprimir();
 
+            Perro p1 = new Perro("Duke","Pastor Aleman",true);
+            p1.Jugar();
+            p1.Hablar();
+            p1.Imprimir();
+
+            //Toda clase hereda de Object, por lo tanto cualquier
+            //objeto tendra disponible el metodo ToString()
+            //el cual devuelve el objeto convertido a String
+            Console.WriteLine(g1.ToString());
+            Console.WriteLine(p1.ToString());
+            //a ToString() podemos hacerle override desde nuestras clases,
+            //por ejemplo para la clase Gato.
+
+            //en C# son el simple hecho de imprimir el objeto
+            //es lo mismo que mandar a imprimir su metodo toString()
+            Console.WriteLine(g1);
         }
     }
 }
