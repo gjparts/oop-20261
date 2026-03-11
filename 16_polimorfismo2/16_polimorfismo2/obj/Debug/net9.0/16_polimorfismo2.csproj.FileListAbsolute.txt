@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\bin\Debug\net9.0\16_polimorfismo2.exe
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\bin\Debug\net9.0\16_polimorfismo2.deps.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\bin\Debug\net9.0\16_polimorfismo2.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\bin\Debug\net9.0\16_polimorfismo2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\bin\Debug\net9.0\16_polimorfismo2.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\refint\16_polimorfismo2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\16_polimorfismo2.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\16_polimorfismo2\16_polimorfismo2\obj\Debug\net9.0\ref\16_polimorfismo2.dll
