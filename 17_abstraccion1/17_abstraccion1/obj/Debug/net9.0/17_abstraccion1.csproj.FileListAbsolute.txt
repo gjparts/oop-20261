@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\bin\Debug\net9.0\17_abstraccion1.exe
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\bin\Debug\net9.0\17_abstraccion1.deps.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\bin\Debug\net9.0\17_abstraccion1.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\bin\Debug\net9.0\17_abstraccion1.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\bin\Debug\net9.0\17_abstraccion1.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\refint\17_abstraccion1.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\17_abstraccion1.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\17_abstraccion1\17_abstraccion1\obj\Debug\net9.0\ref\17_abstraccion1.dll
