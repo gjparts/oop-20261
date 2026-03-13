@@ -44,7 +44,25 @@
                 item.Vivir();
             }
 
+            //Recuerdan la clase Math?
+            double numero = Math.Pow(5, 2);
+            //el metodo Pow en Math es un metodo estatico.
+            //los metodos estaticos estan siempre disponibles
+            //en la definicion de una clase sin importar si esta
+            //ha sido instanciada o no.
+            //metodos como Sqrt, Abs, Sin, Cos, Round se puede usar
+            //de forma estatica, a esto se le conoce como patron Singleton.
 
+            //Para muestra vamos a crear un par de metodos estaticos
+            //en la clase SerVivo
+            SerVivo.Saludar();
+            Console.WriteLine( SerVivo.Cuadratica(1,4,1) );
+            //observe que Saludar() y Cuadratica() puede ser usados sin necesidad
+            //de instanciar un objeto de clase SerVivo
+
+            //Prueba del metodo GetInstance de SerVivo:
+            SerVivo s9 = SerVivo.GetInstance();
+            s9.Vivir();
         }
     }
 }
