@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\bin\Debug\net9.0\18_abstraccion2.exe
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\bin\Debug\net9.0\18_abstraccion2.deps.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\bin\Debug\net9.0\18_abstraccion2.runtimeconfig.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\bin\Debug\net9.0\18_abstraccion2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\bin\Debug\net9.0\18_abstraccion2.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.AssemblyInfo.cs
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.sourcelink.json
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\refint\18_abstraccion2.dll
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.pdb
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\18_abstraccion2.genruntimeconfig.cache
+C:\Programas UNAH\2026-1\Programacion Orientada a Objetos\18_abstraccion2\18_abstraccion2\obj\Debug\net9.0\ref\18_abstraccion2.dll
