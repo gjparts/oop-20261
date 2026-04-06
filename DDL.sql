@@ -51,3 +51,35 @@ USE Gerardo
 GO
 DROP TABLE Producto
 GO
+
+--vaciar el contenido de una tabla (borrar sus datos sin destruir su estructura)
+Use Gerardo
+GO
+TRUNCATE TABLE Producto
+GO
+--lo anterior tambien resetea el campo autonumerico
+--a esto se le conoce como Truncar la tabla
+
+--agregar una columna a una tabla existente sin perder sus datos
+--por ejemplo: agregar una columna llada Color a la tabla Producto, de tipo varchar(15) y que admita nulos
+USE Gerardo
+GO
+ALTER TABLE Producto
+ADD Color VARCHAR(15) NULL
+GO
+
+--borrar una columna de una tabla existente sin perder los demas datos
+USE Gerardo
+GO
+ALTER TABLE Producto
+DROP COLUMN Color
+GO
+--lo anterior borrar la columna Color de la tabla Producto
+
+--cambiar el tamaño a una columna existente sin perder datos
+--Ampliar el tamaño de la columna Nombre a 250 caracteres
+USE Gerardo
+GO
+ALTER TABLE Producto
+ALTER COLUMN Nombre VARCHAR(250) NOT NULL
+GO
