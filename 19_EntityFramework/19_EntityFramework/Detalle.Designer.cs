@@ -206,18 +206,18 @@
         #endregion
 
         private Label label1;
-        private TextBox Codigo;
-        private TextBox Nombre;
         private Label label2;
-        private TextBox Costo;
         private Label label3;
-        private TextBox PrecioVenta;
         private Label label4;
-        private TextBox Existencias;
         private Label label5;
-        private TextBox Comentarios;
         private Label label6;
         private Button botonAceptar;
         private Button botonCancelar;
+        public TextBox Codigo;
+        public TextBox Nombre;
+        public TextBox Costo;
+        public TextBox PrecioVenta;
+        public TextBox Existencias;
+        public TextBox Comentarios;
     }
 }
